@@ -12,4 +12,4 @@ Scrapping [Masters Portal](http://www.mastersportal.eu/) for research purposes. 
 
 ## License
 
-MIT © 2017 Anas Aboureada
+MIT © 2017 [Anas Aboureada](https://github.com/AnasFullStack)
