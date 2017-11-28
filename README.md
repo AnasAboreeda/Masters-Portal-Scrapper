@@ -1,6 +1,6 @@
 # Masters-Portal-Scrapper
 
-Scrapping [Masters Portal](http://www.mastersportal.eu/) for research purposes. You can find a clean version of the scrapper's output here on this [dataset](https://www.kaggle.com/anasfullstack/masters-portal-exploratory-data-analysis/data)
+Scrapping [Masters Portal](http://www.mastersportal.eu/) for research purposes. You can find a clean version of the scrapper's output here on this [dataset](https://goo.gl/LdrqwV)
 
 ## To run locally
 
